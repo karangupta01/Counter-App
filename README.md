@@ -1,12 +1,24 @@
-# React + Vite
+#Author - Karan Gupta
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Counter App
+A lightweight and responsive Counter App built using React JS and Vite.
+This application demonstrates the use of the useState Hook to manage state efficiently in a functional component. Users can easily increment, decrement, and reset the counter, making it a perfect example to understand the core concepts of state management in React.
 
-Currently, two official plugins are available:
+🛠️ Key Features
+📈 Increment/Decrement Counter – Increase or decrease the count dynamically with a click.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔄 Reset Functionality – Reset the counter to its initial value.
 
-## Expanding the ESLint configuration
+⚡️ Vite-Powered Build – Lightning-fast builds and optimized performance with Vite.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 Responsive UI – Simple and clean design with user-friendly controls.
+
+📚 Technologies Used
+⚛️ React JS – Component-based architecture for a modular and reusable UI.
+
+⚡️ Vite – Modern front-end toolchain for blazing-fast development.
+
+🔥 JavaScript (ES6+) – Clean and concise code with modern JavaScript practices.
+
+🎯 React Hooks – Managed state using the useState Hook.
+
