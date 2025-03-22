@@ -1,6 +1,4 @@
-#Author - Karan Gupta
-
-🚀 Counter App
+<h2>🚀 Couter App</h2>
 A lightweight and responsive Counter App built using React JS and Vite.
 This application demonstrates the use of the useState Hook to manage state efficiently in a functional component. Users can easily increment, decrement, and reset the counter, making it a perfect example to understand the core concepts of state management in React.
 
